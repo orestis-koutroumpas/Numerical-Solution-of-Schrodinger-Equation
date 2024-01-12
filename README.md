@@ -11,6 +11,6 @@ Before you begin, ensure you have met the following requirements:
 - **Python:** The program is written in Python. Ensure you have Python installed on your system.
 
 - **Dependencies:** The following Python libraries are used in this project.
-- scipy
-- matplotlib
+  scipy
+  matplotlib
   
