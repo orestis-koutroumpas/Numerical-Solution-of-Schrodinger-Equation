@@ -17,7 +17,7 @@ To get started with the program, follow these steps:
 3. **Navigate to the project directory using your preferred terminal or command prompt. For example:**
 
     ```bash
-    cd path/to/unzipped/folder/Numerical_Solution_of_the_Time_Independent_Schrodinger_Equation
+    cd path/to/unzipped/folder/Numerical_Solution_of_Schrodinger_Equation
     ```
 
    Replace `path/to/unzipped/folder/` with the actual path where you unzipped the folder.
