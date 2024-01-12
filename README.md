@@ -8,17 +8,9 @@ potential landscapes.
 
 To get started with the program, follow these steps:
 
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/orestis-koutroumpas/Numerical_Solution_of_the_Time_Independent_Schrodinger_Equation.git
-    ```
+1. Download the repository to your local machine:
 
 2. Navigate to the project directory:
-
-    ```bash
-    cd Numerical_Solution_of_the_Time_Independent_Schrodinger_Equation
-    ```
 
 3. Run the main Python script:
 
