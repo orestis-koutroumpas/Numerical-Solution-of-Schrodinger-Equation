@@ -11,13 +11,13 @@ To get started with the program, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/orestis-koutroumpas/Numerical_Solution_of_the_Time_Independent_Schrodinger_Equation.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repository
+    cd Numerical_Solution_of_the_Time_Independent_Schrodinger_Equation
     ```
 
 3. Run the main Python script:
@@ -29,7 +29,6 @@ To get started with the program, follow these steps:
 This will execute the main program and initiate the solution of the time-independent Schrödinger equation in different potentials.
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
-
 
 ## Prerequisites
 
