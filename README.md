@@ -10,9 +10,11 @@ To get started with the program, follow these steps:
 
 1. Download the repository to your local machine:
 
-2. Navigate to the project directory:
+   Click on the "Code" button above and choose either "Download ZIP" to download the repository as a zip file.
+   
+3. Navigate to the project directory:
 
-3. Run the main Python script:
+4. Run the main Python script:
 
     ```bash
     python main.py
