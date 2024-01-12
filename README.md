@@ -11,8 +11,6 @@ To get started with the program, follow these steps:
 1. **Download the repository:**
    - Click on the "Code" button above and choose "Download ZIP" to download the repository as a zip file.
 
-      ![Download ZIP](img/download_zip.png)
-
 2. **Unzip the downloaded folder:**
    - Unzip it to your preferred location on your local machine.
 
