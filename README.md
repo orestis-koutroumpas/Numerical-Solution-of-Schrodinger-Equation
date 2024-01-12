@@ -8,9 +8,8 @@ potential landscapes.
 
 To get started with the program, follow these steps:
 
-1. Download the repository to your local machine:
-
-   Click on the "Code" button above and choose either "Download ZIP" to download the repository as a zip file.
+1. **Download the repository:**
+   - Click on the "Code" button above and choose either "Download ZIP" to download the repository as a zip file.
    
 3. Navigate to the project directory:
 
