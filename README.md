@@ -1,6 +1,6 @@
 # Quantum-Solver
 
-The program solves the time-independent Schrödinger equation using the three-point finite difference method, offering a versatile tool for exploring quantum mechanics in various potentials. 
+The program solves the one dimensional time-independent Schrödinger equation using the three-point finite difference method, offering a versatile tool for exploring quantum mechanics in various potentials. 
 Users can analyze systems such as Finite Well, Harmonic Oscillator, Poschl-Teller, Double Finite Well, and Superlattice, gaining insights into the behavior of quantum particles in different 
 potential landscapes.
 
