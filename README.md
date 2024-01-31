@@ -39,12 +39,6 @@ Before you begin, ensure you have met the following requirements:
 
 - **Python:** The program is written in Python. Ensure you have Python installed on your system.
 
-## Dependencies
-
-Before you begin, ensure you have met the following requirements:
-
-- **Python:** The program is written in Python. Ensure you have Python installed on your system.
-
 - **Dependencies:** The Python libraries that are used in this project can be installed by running the following command:
 
   ```bash
