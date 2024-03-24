@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 - **Python:** The program is written in Python. Ensure you have Python installed on your system. If not, you can download and install Python from [here](https://www.python.org/downloads/).
 
-- **Dependencies:** The Python libraries used in this project are `numpy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
+- **Dependencies:** The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
 
   ```bash
   pip install -r requirements.txt
