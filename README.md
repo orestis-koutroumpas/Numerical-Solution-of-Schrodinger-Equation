@@ -1,25 +1,40 @@
 # Quantum-Solver
 
-The program solves the one dimensional time-independent Schrödinger equation using the three-point finite difference method, offering a versatile tool for exploring quantum mechanics in various potentials. 
-Users can analyze systems such as Finite Well, Harmonic Oscillator, Poschl-Teller, Double Finite Well, and Superlattice, gaining insights into the behavior of quantum particles in different 
-potential landscapes.
+**Quantum-Solver** is a Python program that numerically solves the **one-dimensional time-independent Schrödinger equation** using the **three-point finite difference method**. It provides an interactive way to explore quantum mechanics by solving for eigenvalues and wavefunctions in various potential energy landscapes.
+
+## Features
+
+- **Solves the Schrödinger equation** for different potentials.
+- Supports the following potential types:
+  - **Finite Well**
+  - **Harmonic Oscillator**
+  - **Poschl-Teller Potential**
+  - **Double Finite Well**
+  - **Superlattice**
+- Generates and visualizes:
+  - **Energy eigenvalues**
+  - **Corresponding wavefunctions**
+- Simple menu-based selection system.
+
+---
 
 ## Getting Started
 
-To get started with the program, follow these steps:
+### 1. Run the Program
+To execute the solver, run:
 
-1. **Run the main Python script:**
-
-    ```bash
-    python main.py
-    ```
+```bash
+python main.py
+```
 
 This will execute the main program and initiate the solution of the time-independent Schrödinger equation in different potentials.
 
-2. **Choose the potential V(x)**
+2. **Choose the potential**
+After running the script, you will see a menu where you can select a potential:
+
 ![Menu](screenshots/menu.png)
 
-3. **Example with selection 1**
+3. **Example Output (Selection 1)**
    
 ![Eigenvaluest](screenshots/selection1_a.png)
 
@@ -27,13 +42,9 @@ This will execute the main program and initiate the solution of the time-indepen
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
 
-## Prerequisites
+## Dependencies
 
-Before you begin, ensure you have met the following requirements:
+The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
 
-- **Python:** The program is written in Python. Ensure you have Python installed on your system. If not, you can download and install Python from [here](https://www.python.org/downloads/).
-
-- **Dependencies:** The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
-
-  ```bash
-  pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
