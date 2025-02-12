@@ -20,7 +20,15 @@
 
 ## Getting Started
 
-### 1. Run the Program
+### 1. Dependencies
+
+The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run the Program
 To execute the solver, run:
 
 ```bash
@@ -65,10 +73,3 @@ After running the script, you will see a menu where you can select a potential:
 ![Waveforms](screenshots/superlattice2.png)
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
-
-### 3. Dependencies
-
-The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
-
-```bash
-pip install -r requirements.txt
