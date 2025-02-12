@@ -34,15 +34,39 @@ After running the script, you will see a menu where you can select a potential:
 
 ![Menu](screenshots/menu.png)
 
-### 3. **Example Output (Selection 1)**
+1. **Finite Well Output (Selection 1)**
    
-![Eigenvaluest](screenshots/selection1_a.png)
+![Eigenvalues](screenshots/finite.png)
 
-![Functions](screenshots/selection1_b.png)
+![Waveforms](screenshots/finite2.png)
+
+2. **Harmonic Well Output (Selection 1)**
+   
+![Eigenvalues](screenshots/harmonic.png)
+
+![Waveforms](screenshots/harmonic2.png)
+
+3. **Poschl - Teller Potential Output (Selection 1)**
+   
+![Eigenvalues](screenshots/poschl.png)
+
+![Waveforms](screenshots/poschl2.png)
+
+4. **Double Finite Well Output (Selection 1)**
+   
+![Eigenvalues](screenshots/double.png)
+
+![Waveforms](screenshots/double2.png)
+
+5. **Superlattice Output (Selection 1)**
+   
+![Eigenvalues](screenshots/superlattice.png)
+
+![Waveforms](screenshots/superlattice2.png)
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
 
-## Dependencies
+### 3. Dependencies
 
 The Python libraries used in this project are `scipy` and `matplotlib`. If you haven't installed them, you can do so by running the following command in your terminal:
 
