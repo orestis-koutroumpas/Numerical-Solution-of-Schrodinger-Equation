@@ -8,21 +8,7 @@ potential landscapes.
 
 To get started with the program, follow these steps:
 
-1. **Download the repository:**
-   - Click on the "Code" button above and choose "Download ZIP" to download the repository as a zip file.
-
-2. **Unzip the downloaded folder:**
-   - Unzip it to your preferred location on your local machine.
-
-3. **Navigate to the project directory using your preferred terminal or command prompt. For example:**
-
-    ```bash
-    cd path/to/unzipped/folder/Numerical_Solution_of_Schrodinger_Equation
-    ```
-
-   Replace `path/to/unzipped/folder/` with the actual path where you unzipped the folder.
-
-4. **Run the main Python script:**
+1. **Run the main Python script:**
 
     ```bash
     python main.py
@@ -30,8 +16,16 @@ To get started with the program, follow these steps:
 
 This will execute the main program and initiate the solution of the time-independent Schrödinger equation in different potentials.
 
-Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
+2. **Choose the potential V(x)**
+![Menu](screenshots/menu.png)
 
+3. **Example with selection 1**
+   
+![Eigenvaluest](screenshots/selection1_a.png)
+
+![Functions](screenshots/selection1_b.png)
+
+Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
 
 ## Prerequisites
 
