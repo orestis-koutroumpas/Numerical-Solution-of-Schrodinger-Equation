@@ -40,25 +40,25 @@ After running the script, you will see a menu where you can select a potential:
 
 ![Waveforms](screenshots/finite2.png)
 
-2. **Harmonic Well Output (Selection 1)**
+2. **Harmonic Well Output (Selection 2)**
    
 ![Eigenvalues](screenshots/harmonic.png)
 
 ![Waveforms](screenshots/harmonic2.png)
 
-3. **Poschl - Teller Potential Output (Selection 1)**
+3. **Poschl - Teller Potential Output (Selection 3)**
    
 ![Eigenvalues](screenshots/poschl.png)
 
 ![Waveforms](screenshots/poschl2.png)
 
-4. **Double Finite Well Output (Selection 1)**
+4. **Double Finite Well Output (Selection 4)**
    
 ![Eigenvalues](screenshots/double.png)
 
 ![Waveforms](screenshots/double2.png)
 
-5. **Superlattice Output (Selection 1)**
+5. **Superlattice Output (Selection 5)**
    
 ![Eigenvalues](screenshots/superlattice.png)
 
