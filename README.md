@@ -29,12 +29,12 @@ python main.py
 
 This will execute the main program and initiate the solution of the time-independent Schrödinger equation in different potentials.
 
-2. **Choose the potential**
+### 2. **Choose the potential**
 After running the script, you will see a menu where you can select a potential:
 
 ![Menu](screenshots/menu.png)
 
-3. **Example Output (Selection 1)**
+### 3. **Example Output (Selection 1)**
    
 ![Eigenvaluest](screenshots/selection1_a.png)
 
