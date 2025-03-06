@@ -41,13 +41,13 @@ This will execute the main program and initiate the solution of the time-indepen
 After running the script, you will see a menu where you can select a potential:
 
 <p align="center"> 
-<img src="screenshots/menu" width="90%" height="90%" alt="Menu"> 
+<img src="screenshots/menu.png" width="90%" height="90%" alt="Menu"> 
 </p>
 
 1. **Finite Well Output (Selection 1)**
 
 <p align="center"> 
-<img src="screenshots/finite" width="90%" height="90%" alt="Eigenvalues"> 
+<img src="screenshots/finite.png" width="90%" height="90%" alt="Eigenvalues"> 
 </p>
 
 <p align="center"> 
