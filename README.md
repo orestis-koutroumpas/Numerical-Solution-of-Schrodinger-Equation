@@ -40,13 +40,19 @@ This will execute the main program and initiate the solution of the time-indepen
 ### 3. **Choose the potential**
 After running the script, you will see a menu where you can select a potential:
 
-![Menu](screenshots/menu.png)
+<p align="center"> 
+<img src="screenshots/menu" width="90%" height="90%" alt="Menu"> 
+</p>
 
 1. **Finite Well Output (Selection 1)**
-   
-![Eigenvalues](screenshots/finite.png)
 
-![Waveforms](screenshots/finite2.png)
+<p align="center"> 
+<img src="screenshots/finite" width="90%" height="90%" alt="Eigenvalues"> 
+</p>
+
+<p align="center"> 
+<img src="screenshots/finite2.png" width="90%" height="90%" alt="Waveforms"> 
+</p>
 
 2. **Harmonic Well Output (Selection 2)**
    
