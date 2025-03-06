@@ -55,27 +55,39 @@ After running the script, you will see a menu where you can select a potential:
 </p>
 
 2. **Harmonic Well Output (Selection 2)**
-   
-![Eigenvalues](screenshots/harmonic.png)
+<p align="center"> 
+<img src="screenshots/harmonic.png" width="90%" height="90%" alt="Eigenvalues"> 
+</p>
 
-![Waveforms](screenshots/harmonic2.png)
+<p align="center"> 
+<img src="screenshots/harmonic2.png" width="90%" height="90%" alt="Waveforms"> 
+</p>
 
 3. **Poschl - Teller Potential Output (Selection 3)**
-   
-![Eigenvalues](screenshots/poschl.png)
+<p align="center"> 
+<img src="screenshots/poschl.png" width="90%" height="90%" alt="Eigenvalues"> 
+</p>
 
-![Waveforms](screenshots/poschl2.png)
+<p align="center"> 
+<img src="screenshots/poschl2.png" width="90%" height="90%" alt="Waveforms"> 
+</p>
 
 4. **Double Finite Well Output (Selection 4)**
-   
-![Eigenvalues](screenshots/double.png)
+<p align="center"> 
+<img src="screenshots/double.png" width="90%" height="90%" alt="Eigenvalues"> 
+</p>
 
-![Waveforms](screenshots/double2.png)
+<p align="center"> 
+<img src="screenshots/double2.png" width="90%" height="90%" alt="Waveforms"> 
+</p>
 
 5. **Superlattice Output (Selection 5)**
-   
-![Eigenvalues](screenshots/superlattice.png)
+<p align="center"> 
+<img src="screenshots/superlattice.png" width="90%" height="90%" alt="Eigenvalues"> 
+</p>
 
-![Waveforms](screenshots/superlattice2.png)
+<p align="center"> 
+<img src="screenshots/superlattice2.png" width="90%" height="90%" alt="Waveforms"> 
+</p>
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
