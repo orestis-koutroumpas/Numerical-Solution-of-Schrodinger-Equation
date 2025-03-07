@@ -8,7 +8,7 @@
 - Supports the following potential types:
   - **Finite Well**
   - **Harmonic Oscillator**
-  - **Poschl-Teller Potential**
+  - **Pöschl-Teller Potential**
   - **Double Finite Well**
   - **Superlattice**
 - Generates and visualizes:
@@ -63,7 +63,7 @@ After running the script, you will see a menu where you can select a potential:
 <img src="screenshots/harmonic2.png" width="90%" height="90%" alt="Waveforms"> 
 </p>
 
-3. **Poschl - Teller Potential Output (Selection 3)**
+3. **Pöschl - Teller Potential Output (Selection 3)**
 <p align="center"> 
 <img src="screenshots/poschl.png" width="90%" height="90%" alt="Eigenvalues"> 
 </p>
