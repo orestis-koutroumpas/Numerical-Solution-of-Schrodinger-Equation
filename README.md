@@ -43,7 +43,7 @@ After running the script, you will see a menu where you can select a potential:
 ![Menu Screenshot](screenshots/menu.png)  
 
 
-Example **Harmonic Well Output (Selection 2)**
+Example **Harmonic Well Output (Option 2)**
 ![Result](screenshots/harmonic.png)  
 
 ![Result](screenshots/harmonic2.png)  
