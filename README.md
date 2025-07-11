@@ -40,9 +40,8 @@ This will execute the main program and initiate the solution of the time-indepen
 ### 3. **Choose the potential**
 After running the script, you will see a menu where you can select a potential:
 
-<p align="center"> 
-<img src="screenshots/menu.png" width="90%" height="90%" alt="Menu"> 
-</p>
+![Menu Screenshot](screenshots/menu.png)  
+
 
 Example **Harmonic Well Output (Selection 2)**
 <p align="center"> 
