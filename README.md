@@ -44,12 +44,8 @@ After running the script, you will see a menu where you can select a potential:
 
 
 Example **Harmonic Well Output (Selection 2)**
-<p align="center"> 
-<img src="screenshots/harmonic.png" width="100%" height="100%" alt="Eigenvalues"> 
-</p>
+![Option 2 Screenshot]creenshots/harmonic.png)  
 
-<p align="center"> 
-<img src="screenshots/harmonic2.png" width="100%" height="100%" alt="Waveforms"> 
-</p>
+![Result]creenshots/harmonic2.png)  
 
 Feel free to explore the code in `main.py` to understand the implementation details or customize the parameters for specific potentials.
