@@ -44,6 +44,7 @@ After running the script, you will see a menu where you can select a potential:
 
 
 Example **Harmonic Well Output (Selection 2)**
+![Result](screenshots/harmonic.png)  
 
 ![Result](screenshots/harmonic2.png)  
 
